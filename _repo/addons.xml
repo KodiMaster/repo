@@ -41,7 +41,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.program.kodimasterwizard" name="[COLOR gold]KodiMaster Wizard[/COLOR]" version="2.0.1" provider-name="KodiMaster">
+<addon id="plugin.program.kodimasterwizard" name="KodiMaster Wizard" version="2.0.2" provider-name="KodiMaster">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -51,7 +51,7 @@
   <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
     <summary lang="en">KodiMaster Wizard</summary>
-    <description lang="en">Use this wizard to install the best Kodi builds available!.  For help or info please visit http://www.kodimaster.com</description>
+    <description lang="en">The Best Wizard for the Best Builds!  For help or info please visit http://www.kodimaster.com</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -67,23 +67,6 @@
 		<description>Download and install addons from the Coldkeys Repository</description>
 		<platform>all</platform>
 	</extension>
-</addon>
-
-    <addon id="repository.kaosbox2" name="KAOSbox Repo" version="2.0.1" provider-name="KAOSbox">
-        <requires>
-            <import addon="xbmc.addon" version="12.0.0"/>
-        </requires>
-        <extension point="xbmc.addon.repository" name="KAOSbox Repo">
-            <info compressed="false">https://raw.githubusercontent.com/KAOSbox/KAOSbox-Repo/master/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/KAOSbox/KAOSbox-Repo/master/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/KAOSbox/KAOSbox-Repo/master/zips/</datadir>
-            <hashes>false</hashes>
-        </extension>
-        <extension point="xbmc.addon.metadata">
-            <summary>Official New Repo for the KAOSbox (www.kaosbox.tv)</summary>
-            <description>Download and install addons for the KAOSbox (www.kaosbox.tv)</description>
-            <platform>all</platform>
-    </extension>
 </addon>
 
 <addon id="script.kodimastermaintenance"
