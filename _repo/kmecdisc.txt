@@ -1,0 +1,15 @@
+1
+|||
+Welcome to KMEC - the KodiMaster Entertainment Center
+USING THIS APPLICATION MEANS ACCEPTANCE OF THE BELOW TERMS:
+KodiMaster is not responsible for the accuracy, compliance, copyright,
+legality, decency, or any other aspect of the content streamed to or from
+your device, and is not connected to or in any other way affiliated with Kodi,
+Team Kodi, or the XBMC Foundation.
+This application should be used for educational purposes only. Any content you
+decide to use, is at your own risk as is any modification to your device.
+KodiMaster will not be held responsible for any damage or such that arises
+from using said content. It is your responsibility to ensure that you do not
+contravene applicable laws or copyright agreements in your geographical
+jurisdiction. It is worth noting that what may be legal in one country,
+or state, does not mean is universally applicable.
