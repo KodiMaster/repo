@@ -1,0 +1,15 @@
+5
+|||
+Hello KodiMaster Fans !
+The messages displayed here are to keep you updated on any new build releases
+or general announcements, and aim to be as non-intrusive as possible.
+
+Show your support by visiting the KodiMaster YouTube Channel and website.
+Oh, and don't forget to subscribe to the channel it you haven't already.
+
+[B][COLOR red]www.youtube.com/c/KodiMaster[/COLOR][/B]
+[B][COLOR gold]www.kodimaster.com[/COLOR][/B]
+
+[B]IMPORTANT:[/B] When installing a build it is recommended to start from a fresh
+installation of Kodi.
+Thank you all for your support and I hope you continue to enjoy the builds here.
